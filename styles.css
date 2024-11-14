@@ -1,0 +1,51 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-image: linear-gradient(0deg, #868686, #232931);
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  text-shadow: 5px 0 #796700;
+  font-size: 8rem;
+  color: #FFD700;
+}
+
+p {
+  font-size: 2rem;
+  color: #ffd700;
+  text-shadow: 2.5px 0 #796700;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+  width: 250px;
+}
+
+.butn {
+  margin: 5%;
+  background: #ffd700;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-radius: 7px;
+  color: #232931;
+  font-size: 30px;
+  padding: 16px 25px 16px 25px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  color: #EEEEEE;
+  background: #232931;
+  text-decoration: none;
+}
